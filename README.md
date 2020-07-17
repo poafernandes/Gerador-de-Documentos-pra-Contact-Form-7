@@ -1,0 +1,2 @@
+# Gerador de Documentos pra Contact Form 7
+Fork do plugin [Send PDFT to Contact Form 7](https://wordpress.org/plugins/send-pdf-for-contact-form-7/) com a possibilidade de ser usado com campos repetíveis.
